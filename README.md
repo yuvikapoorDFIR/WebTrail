@@ -1,5 +1,8 @@
 <div align="center">
 
+<img width="2187" height="718" alt="webtrail_banner" src="https://github.com/user-attachments/assets/2842ae59-ccb4-4f16-999d-ed8048d6e124" />
+
+
 # WebTrail
 
 **Browser history forensics tool for Business Email Compromise investigations**
@@ -21,6 +24,11 @@
 WebTrail reads directly from SQLite history databases without touching the live browser process, handles locked files via safe copy-before-read, and auto-detects the browser type from the file path and schema.
 
 Built by [Yuvi Kapoor](https://linkedin.com/in/yuvi-kapoor-5a38521a5)
+
+---
+## Screenshots
+<img width="1382" height="898" alt="WebTrail Screenshot 1" src="https://github.com/user-attachments/assets/122ccbe2-aa51-4763-8c7b-1ed46155f73a" />
+<img width="1382" height="900" alt="WebTrail Screenshot 2" src="https://github.com/user-attachments/assets/7e63ae8e-f25f-4a3d-ad2f-8f5e5235a39d" />
 
 ---
 
